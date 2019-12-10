@@ -1,0 +1,1 @@
+# Akustik-algilayici-ile-ses-kaynagi-yonu-tayini
